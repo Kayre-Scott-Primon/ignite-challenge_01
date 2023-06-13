@@ -1,5 +1,5 @@
 # ignite-challenge_01
-Desafio 02 Ignite - ToDo list
+Desafio 01 Ignite - ToDo list
 
 <p align="center">
     <img src="https://www.rocketseat.com.br/assets/logos/rocketseat.svg" alt="Logo"/>

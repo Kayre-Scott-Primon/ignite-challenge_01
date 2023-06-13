@@ -33,7 +33,8 @@ export const styles = StyleSheet.create({
         borderWidth: 1,
         borderColor: '#0d0d0d',
         marginRight: 5,
-        paddingLeft: 20
+        paddingLeft: 20,
+        color: '#fff'
     },
     buttom: {
         backgroundColor: '#1e6f9f',
@@ -69,7 +70,7 @@ export const styles = StyleSheet.create({
         borderTopWidth: 1,
         borderColor: '#333333',
         marginVertical: 20,
-        alignItems: 'center'
+        alignItems: 'center',
     },
     emptyLabel:{
         color: '#808080',
